@@ -4,7 +4,7 @@ y <- x^2
 z <-x^3
 plot(x,y)
 plot(x,z)
-plot
+
 
 cars <- c(1, 3, 6, 4, 9)
 plot(cars)
